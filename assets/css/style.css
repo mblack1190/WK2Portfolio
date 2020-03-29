@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: navy;
+    background: rgb(136, 196, 216);
+}
+
+header {
+    padding: 20px;
+    background: rgb(136, 196, 216);
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: navy;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: navy;
+}
+
+header nav {
+    float: right;
+    margin 10px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer {
+    background: rgb(136, 196, 216);
+    width: 100%;
+    padding: 20px;
+}
+
+footer h2 {
+    display: inline;
+    color: navy;
+    font-size: 20px;
+    margin: 0;
+}
+
+section {
+    padding: 60px;
+}
+
+.hero {
+background-image: url("../images/color-splash-bg.jpg");
+height: 300px;
+background-size: cover;
+background-position: center;
+position: relative;
+}
+
+.hero h3 {
+    background: rgb(212, 113, 188);
+    padding:20px;
+    width: 150px;
+    color: navy;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
