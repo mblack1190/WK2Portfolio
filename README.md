@@ -11,4 +11,4 @@ A website that provides my professional portfolio.
 https://mblack1190.github.io/WK2Portfolio/
 
 ## Contribution
-Made by Meredith Black]
+Made by Meredith Black
