@@ -77,3 +77,36 @@ position: relative;
     bottom: 30px;
     right: 30px;
 }
+
+.intro {
+    text-align: left;
+}
+
+.intro h2, .projects h2 {
+    font-size: 36px;
+    color: navy;
+    margin-bottom: 25px;
+    padding: 50px 7px 50px 7px;
+    border-right: 3px solid;
+    border color: navy;
+    display: inline-block;
+}
+
+.intro p {
+    line-height: 1.7;
+    color: navy;
+    width 80%;
+    font-size: 16px;
+    margin: 0 auto;
+}
+
+.portrait img {
+    width: 35%;
+    float: left;
+
+}
+
+.projects {
+    text-align: left;
+}
+
