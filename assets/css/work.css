@@ -2,25 +2,29 @@
     border: 2px solid black;
     padding: 40px;
     background-image: url("../images/codequizscreenshot.png");
-
+    background-size: cover;
 }
 
 .item2 {
     border: 2px solid black;
     padding: 40px;
     background-image: url("../images/Scheduler.png");
+    margin-bottom: 10px;
+    background-size: cover;
 }
 
 .item3 {
     border: 2px solid black;
     padding: 40px;
-    background-image: url("../images/weatherdash.png")
+    background-image: url("../images/weatherdash.png");
+    background-size: cover;
 }
 
 .item4 {
     border: 2px solid black;
     padding: 40px;
     background-image: url("../images/flixfacts.png");
+    background-size: cover;
 }
 
 .subtitle {
