@@ -1,0 +1,31 @@
+.item1 {
+    border: 2px solid black;
+    padding: 40px;
+    background-image: url("../images/codequizscreenshot.png");
+
+}
+
+.item2 {
+    border: 2px solid black;
+    padding: 40px;
+    background-image: url("../images/Scheduler.png");
+}
+
+.item3 {
+    border: 2px solid black;
+    padding: 40px;
+    background-image: url("../images/weatherdash.png")
+}
+
+.item4 {
+    border: 2px solid black;
+    padding: 40px;
+    background-image: url("../images/flixfacts.png");
+}
+
+.subtitle {
+    background-color: cadetblue;
+    font-size: 12px;
+    color: maroon;
+    align-self: left;
+}
